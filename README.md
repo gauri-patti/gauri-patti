@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauri patti
 - 👀 I’m interested in astrophysics
-- I’m currently a Physics major at Miranda House, University of Delhi
+- I’m currently a Masters M1 student at Universite Paris-Saclay.
 - You can contact me through my email ID: gauripatti28[at]gmail[dot]com
 
 <!---
