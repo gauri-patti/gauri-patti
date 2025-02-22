@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauri patti
 - 👀 I’m interested in astrophysics
-- I’m currently a Masters M2 student at Paris Observatory.
+- I’m currently a Masters student at Paris Observatory.
 - You can contact me through my email ID: gauripatti28[at]gmail[dot]com
 
 <!---
